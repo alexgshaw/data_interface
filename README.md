@@ -1,6 +1,7 @@
 # data_interface
 
 data_interface is a Python module used to visualize data and molecular structures.
+Inspired by Dr. Sandip De's Interactive Sketchmap Visualizer
 
 ## Usage
 
